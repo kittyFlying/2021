@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tapable": "^2.2.0",
+    "webpack": "^5.28.0"
+  }
+}
